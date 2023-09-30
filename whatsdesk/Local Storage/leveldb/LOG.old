@@ -1,0 +1,9 @@
+2023/09/29-19:00:13.309 39c63 Reusing MANIFEST /home/mnb/.config/whatsdesk/Local Storage/leveldb/MANIFEST-000001
+2023/09/29-19:00:13.309 39c63 Recovering log #4
+2023/09/29-19:00:13.310 39c63 Reusing old log /home/mnb/.config/whatsdesk/Local Storage/leveldb/000004.log 
+2023/09/29-19:05:13.751 39f6f Level-0 table #8: started
+2023/09/29-19:05:13.754 39f6f Level-0 table #8: 13913 bytes OK
+2023/09/29-19:05:13.757 39f6f Delete type=0 #4
+2023/09/29-19:48:13.751 3c56f Level-0 table #10: started
+2023/09/29-19:48:13.797 3c56f Level-0 table #10: 12772 bytes OK
+2023/09/29-19:48:14.080 3c56f Delete type=0 #7

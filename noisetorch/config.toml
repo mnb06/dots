@@ -1,0 +1,7 @@
+Threshold = 95
+DisplayMonitorSources = true
+EnableUpdates = true
+FilterInput = true
+FilterOutput = false
+LastUsedInput = "alsa_input.usb-Logitech_G935_Gaming_Headset-00.mono-fallback"
+LastUsedOutput = ""

@@ -1,0 +1,17 @@
+# settings
+
+(GimpGegl-gimp-colorize-config "2023-08-26 15:47:00"
+    (time 1693075620)
+    (gimp-mode luma-darken-only)
+    (hue 0.75714285714285712)
+    (saturation 0.5)
+    (lightness -0.035000000000000003)
+    (color (color-rgb 0.50317857142857136 0.24124999999999996 0.72375)))
+(GimpGegl-gimp-colorize-config "Saved Settings"
+    (time 0)
+    (hue 0.76428571428571423)
+    (saturation 0.67802769865435619)
+    (lightness 0.10000000000000001)
+    (color (color-rgb 0.60230499389619307 0.24488753560553989 0.8551124643944602)))
+
+# end of settings

@@ -1,0 +1,2 @@
+2023-09-02 23:01:25.544 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/mnb/.wine/drive_c/Program Files (x86)/Valve/Half-Life/valve/liblist.gam","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2023-09-02 23:01:28.559 [info] [perf] Render performance baseline is 23ms

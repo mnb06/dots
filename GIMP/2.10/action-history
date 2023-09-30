@@ -1,0 +1,13 @@
+# GIMP action-history
+
+(history-item "filters-colorize" 1)
+(history-item "file-quit" 1)
+(history-item "file-open" 0)
+(history-item "filters-hue-saturation" 0)
+(history-item "filters-color-to-alpha" 0)
+(history-item "tools-zoom" 0)
+(history-item "filters-curves" 0)
+(history-item "filters-posterize" 0)
+(history-item "file-export-as" 1)
+
+# end of action-history

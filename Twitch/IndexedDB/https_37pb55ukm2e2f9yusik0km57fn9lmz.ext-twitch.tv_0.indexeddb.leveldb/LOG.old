@@ -1,0 +1,14 @@
+2023/09/27-18:36:03.902 ac6d Reusing MANIFEST /home/mnb/.config/Twitch/IndexedDB/https_37pb55ukm2e2f9yusik0km57fn9lmz.ext-twitch.tv_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/27-18:36:03.902 ac6d Recovering log #34
+2023/09/27-18:36:03.902 ac6d Reusing old log /home/mnb/.config/Twitch/IndexedDB/https_37pb55ukm2e2f9yusik0km57fn9lmz.ext-twitch.tv_0.indexeddb.leveldb/000034.log 
+2023/09/27-18:36:03.902 ac6d Delete type=2 #32
+2023/09/27-18:36:03.943 ac87 Level-0 table #39: started
+2023/09/27-18:36:03.945 ac87 Level-0 table #39: 657 bytes OK
+2023/09/27-18:36:03.949 ac87 Delete type=0 #34
+2023/09/27-18:36:03.949 ac6d Manual compaction at level-0 from '\x00\x0c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0c\x00\x00\x05' @ 262 : 1
+2023/09/27-18:36:03.949 ac6d Compacting 1@0 + 1@1 files
+2023/09/27-18:36:03.951 ac6d Generated table #40@0: 56 keys, 1297 bytes
+2023/09/27-18:36:03.951 ac6d Compacted 1@0 + 1@1 files => 1297 bytes
+2023/09/27-18:36:03.955 ac6d compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/09/27-18:36:03.955 ac6d Delete type=2 #39
+2023/09/27-18:36:03.955 ac6d Manual compaction at level-0 from '\x00\x0c\x00\x00\x05' @ 262 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at (end)

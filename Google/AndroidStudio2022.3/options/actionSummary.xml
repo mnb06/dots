@@ -1,0 +1,52 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="Back">
+      <i c="1" l="1694043543107" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="74" l="1694044580704" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="1" l="1694044461142" />
+    </e>
+    <e n="EditorEnter">
+      <i c="14" l="1694044455113" />
+    </e>
+    <e n="EditorPaste">
+      <i c="14" l="1694044451391" />
+    </e>
+    <e n="Kotlin.NewFile">
+      <i c="1" l="1694044373566" />
+    </e>
+    <e n="SaveAll">
+      <i c="9" l="1694044437008" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="1" l="1694044177543" />
+    </e>
+    <e n="ShowSettings">
+      <i c="1" l="1694043472006" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1694043417827" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$addActionsRow$2">
+      <i c="3" l="1694044186123" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1694043564949" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="4" l="1694044410479" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$4">
+      <i c="1" l="1694044583509" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="1" l="1694043463601" />
+    </e>
+    <e n="org.jetbrains.android.actions.CreateMultiRootResourceFileAction">
+      <i c="2" l="1694044376477" />
+    </e>
+  </component>
+</application>

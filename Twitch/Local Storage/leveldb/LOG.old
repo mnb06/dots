@@ -1,0 +1,6 @@
+2023/09/28-17:09:41.128 4b2a6 Reusing MANIFEST /home/mnb/.config/Twitch/Local Storage/leveldb/MANIFEST-000001
+2023/09/28-17:09:41.137 4b2a6 Recovering log #88
+2023/09/28-17:09:41.139 4b2a6 Reusing old log /home/mnb/.config/Twitch/Local Storage/leveldb/000088.log 
+2023/09/28-17:11:44.433 4b2a6 Level-0 table #91: started
+2023/09/28-17:11:44.457 4b2a6 Level-0 table #91: 36367 bytes OK
+2023/09/28-17:11:44.490 4b2a6 Delete type=0 #88

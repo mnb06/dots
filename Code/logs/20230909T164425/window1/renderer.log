@@ -1,0 +1,2 @@
+2023-09-09 16:44:26.658 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/mnb/.config/waybar/config","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2023-09-09 16:44:29.875 [info] [perf] Render performance baseline is 20ms

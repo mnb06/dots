@@ -1,0 +1,28 @@
+game:
+  exe: /home/mnb/Games/steam/drive_c/Program Files (x86)/Steam/Steam.exe
+  prefix: /home/mnb/Games/steam
+game_slug: steam
+name: Steam
+requires: null
+script:
+  files:
+  - client: https://cdn.steamstatic.com/client/installer/SteamSetup.exe
+  game:
+    exe: $GAMEDIR/drive_c/Program Files (x86)/Steam/Steam.exe
+    prefix: $GAMEDIR
+  installer:
+  - task:
+      arch: win64
+      env: {}
+      executable: /home/mnb/.cache/lutris/installer/steam/client/SteamSetup.exe
+      prefix: /home/mnb/Games/steam
+      wine_path: wine
+  wine:
+    version: system
+slug: steam-wine
+system: {}
+variables: {}
+version: Wine
+wine:
+  version: system
+year: 2003

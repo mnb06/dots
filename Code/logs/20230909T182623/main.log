@@ -1,0 +1,12 @@
+2023-09-09 18:26:23.777 [info] update#setState idle
+2023-09-09 18:26:53.778 [info] update#setState checking for updates
+2023-09-09 18:26:54.002 [info] update#setState idle
+2023-09-09 19:26:53.807 [info] update#setState checking for updates
+2023-09-09 19:26:54.066 [info] update#setState idle
+2023-09-09 20:26:53.824 [info] update#setState checking for updates
+2023-09-09 20:26:54.114 [info] update#setState idle
+2023-09-09 21:26:53.851 [info] update#setState checking for updates
+2023-09-09 21:26:54.101 [info] update#setState idle
+2023-09-09 22:26:53.879 [info] update#setState checking for updates
+2023-09-09 22:26:54.215 [info] update#setState idle
+2023-09-09 22:34:44.474 [info] Extension host with pid 1124168 exited with code: 0, signal: unknown.

@@ -1,0 +1,80 @@
+2023-09-22T23:09:10.069Z 0: 
+
+----------------------------------------------
+2023-09-22T23:09:10.073Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.30"}, modulepath: /home/mnb/.config/discord/0.0.30/modules
+2023-09-22T23:09:10.080Z 2: ✅ webContents.created web1 ""
+2023-09-22T23:09:10.106Z 3: ✅ window.created win1 "discord"
+2023-09-22T23:09:10.390Z 4: ✅ webContents.did-finish-load web1
+2023-09-22T23:09:16.961Z 5: ✅ webContents.created web2 ""
+2023-09-22T23:09:16.968Z 6: ✅ window.created win2 "Discord"
+2023-09-22T23:09:21.239Z 7: ✅ webContents.did-finish-load web2
+2023-09-22T23:09:21.340Z 8: window.close win1
+2023-09-22T23:09:21.344Z 9: webContents.destroyed web1
+2023-09-22T23:09:21.346Z 10: window.closed win1
+2023-09-22T23:19:47.008Z 11: window.close win2
+2023-09-22T23:19:50.167Z 12: window.close win2
+2023-09-22T23:19:50.194Z 13: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+2023-09-24T03:25:29.496Z 0: 
+
+----------------------------------------------
+2023-09-24T03:25:29.504Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.30"}, modulepath: /home/mnb/.config/discord/0.0.30/modules
+2023-09-24T03:25:29.507Z 2: ✅ webContents.created web1 ""
+2023-09-24T03:25:29.509Z 3: ✅ window.created win1 "discord"
+2023-09-24T03:25:29.811Z 4: ✅ webContents.did-finish-load web1
+2023-09-24T03:25:30.067Z 5: ✅ webContents.created web2 ""
+2023-09-24T03:25:30.075Z 6: ✅ window.created win2 "Discord"
+2023-09-24T03:25:32.710Z 7: ✅ webContents.did-finish-load web2
+2023-09-24T03:25:32.810Z 8: window.close win1
+2023-09-24T03:25:32.814Z 9: webContents.destroyed web1
+2023-09-24T03:25:32.815Z 10: window.closed win1
+2023-09-24T04:13:44.550Z 11: window.close win2
+2023-09-24T16:03:28.023Z 0: 
+
+----------------------------------------------
+2023-09-24T16:03:28.031Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.30"}, modulepath: /home/mnb/.config/discord/0.0.30/modules
+2023-09-24T16:03:28.250Z 2: ✅ webContents.created web1 "Discord Updater"
+2023-09-24T16:03:28.257Z 3: ✅ window.created win1 "Discord Updater"
+2023-09-24T16:03:28.448Z 4: ✅ webContents.did-finish-load web1
+2023-09-24T16:03:28.681Z 5: ✅ webContents.created web2 ""
+2023-09-24T16:03:28.684Z 6: ✅ window.created win2 "Discord"
+2023-09-24T16:03:30.774Z 7: ✅ webContents.did-finish-load web2
+2023-09-24T16:03:30.874Z 8: window.close win1
+2023-09-24T16:03:30.878Z 9: webContents.destroyed web1
+2023-09-24T16:03:30.880Z 10: window.closed win1
+2023-09-24T16:14:18.696Z 11: window.close win2
+2023-09-24T17:04:13.318Z 12: window.close win2
+2023-09-28T21:03:10.769Z 0: 
+
+----------------------------------------------
+2023-09-28T21:03:10.776Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.30"}, modulepath: /home/mnb/.config/discord/0.0.30/modules
+2023-09-28T21:03:10.778Z 2: ✅ webContents.created web1 ""
+2023-09-28T21:03:10.780Z 3: ✅ window.created win1 "discord"
+2023-09-28T21:03:11.080Z 4: ✅ webContents.did-finish-load web1
+2023-09-28T21:03:14.453Z 5: ✅ webContents.created web2 ""
+2023-09-28T21:03:14.457Z 6: ✅ window.created win2 "Discord"
+2023-09-28T21:03:17.703Z 7: ✅ webContents.did-finish-load web2
+2023-09-28T21:03:17.803Z 8: window.close win1
+2023-09-28T21:03:17.807Z 9: webContents.destroyed web1
+2023-09-28T21:03:17.809Z 10: window.closed win1
+2023-09-29T00:48:08.539Z 11: window.close win2
+2023-09-29T00:48:12.383Z 12: window.close win2
+2023-09-29T00:48:12.392Z 13: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+2023-09-29T00:48:12.427Z 14: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}

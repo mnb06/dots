@@ -1,0 +1,39 @@
+game:
+  exe: /home/mnb/Games/steam/drive_c/Program Files (x86)/Steam/Steam.exe
+  prefix: /home/mnb/Games/steam
+game_slug: steam
+name: Steam
+requires: null
+script:
+  files:
+  - client: https://cdn.steamstatic.com/client/installer/SteamSetup.exe
+  game:
+    exe: $GAMEDIR/drive_c/Program Files (x86)/Steam/Steam.exe
+    prefix: $GAMEDIR
+  installer:
+  - task:
+      arch: win64
+      env: {}
+      executable: /home/mnb/.cache/lutris/installer/steam/client/SteamSetup.exe
+      prefix: /home/mnb/Games/steam
+      wine_path: wine
+  wine:
+    version: system
+slug: steam-wine
+system:
+  gamescope: true
+  gamescope_flags: -r 480 -f
+  gamescope_force_grab_cursor: true
+  gamescope_game_res: 1920x1080
+  gamescope_output_res: 1440x1080
+  mangohud: true
+variables: {}
+version: Wine
+wine:
+  Desktop: false
+  WineDesktop: 1920x1080
+  dxvk: false
+  esync: true
+  fsync: false
+  version: system
+year: 2003

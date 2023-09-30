@@ -1,0 +1,42 @@
+2023/09/28-18:03:10.733 38278 Reusing MANIFEST /home/mnb/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/09/28-18:03:10.735 38278 Recovering log #113
+2023/09/28-18:03:10.736 38278 Reusing old log /home/mnb/.config/discord/Local Storage/leveldb/000113.log 
+2023/09/28-18:04:14.537 38d8e Level-0 table #117: started
+2023/09/28-18:04:14.540 38d8e Level-0 table #117: 15741 bytes OK
+2023/09/28-18:04:14.544 38d8e Delete type=0 #113
+2023/09/28-18:08:14.537 3beae Level-0 table #119: started
+2023/09/28-18:08:14.540 3beae Level-0 table #119: 18575 bytes OK
+2023/09/28-18:08:14.544 3beae Delete type=0 #116
+2023/09/28-18:08:14.544 3beae Compacting 4@0 + 1@1 files
+2023/09/28-18:08:14.565 3beae Generated table #120@0: 46 keys, 1915843 bytes
+2023/09/28-18:08:14.565 3beae Compacted 4@0 + 1@1 files => 1915843 bytes
+2023/09/28-18:08:14.568 3beae compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/09/28-18:08:14.568 3beae Delete type=2 #109
+2023/09/28-18:08:14.568 3beae Delete type=2 #112
+2023/09/28-18:08:14.568 3beae Delete type=2 #114
+2023/09/28-18:08:14.568 3beae Delete type=2 #117
+2023/09/28-18:08:14.568 3beae Delete type=2 #119
+2023/09/28-18:33:14.538 3e3f0 Level-0 table #122: started
+2023/09/28-18:33:14.541 3e3f0 Level-0 table #122: 12047 bytes OK
+2023/09/28-18:33:14.546 3e3f0 Delete type=0 #118
+2023/09/28-19:45:14.537 42c0d Level-0 table #124: started
+2023/09/28-19:45:14.540 42c0d Level-0 table #124: 8028 bytes OK
+2023/09/28-19:45:14.678 42c0d Delete type=0 #121
+2023/09/28-20:43:14.538 42c0d Level-0 table #126: started
+2023/09/28-20:43:14.567 42c0d Level-0 table #126: 11151 bytes OK
+2023/09/28-20:43:14.632 42c0d Delete type=0 #123
+2023/09/28-21:29:14.537 5877b Level-0 table #128: started
+2023/09/28-21:29:14.539 5877b Level-0 table #128: 12111 bytes OK
+2023/09/28-21:29:14.544 5877b Delete type=0 #125
+2023/09/28-21:29:14.544 5877b Compacting 4@0 + 1@1 files
+2023/09/28-21:29:14.565 5877b Generated table #129@0: 46 keys, 1915999 bytes
+2023/09/28-21:29:14.565 5877b Compacted 4@0 + 1@1 files => 1915999 bytes
+2023/09/28-21:29:14.568 5877b compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/09/28-21:29:14.568 5877b Delete type=2 #120
+2023/09/28-21:29:14.568 5877b Delete type=2 #122
+2023/09/28-21:29:14.568 5877b Delete type=2 #124
+2023/09/28-21:29:14.568 5877b Delete type=2 #126
+2023/09/28-21:29:14.568 5877b Delete type=2 #128
+2023/09/28-21:34:14.537 59232 Level-0 table #131: started
+2023/09/28-21:34:14.540 59232 Level-0 table #131: 14748 bytes OK
+2023/09/28-21:34:14.545 59232 Delete type=0 #127
